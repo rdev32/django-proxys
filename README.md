@@ -1,6 +1,7 @@
 ## Tarea
 ## Modificando Campos 
 1 - Añadir el id del profesor a la tabla salón para relacionar a un profesor con un salón.✅
+
 2 - Añadir el salario del profesor al modelo.✅
 
 ## Creando nuevos modelos
